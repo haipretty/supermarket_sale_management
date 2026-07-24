@@ -1,0 +1,2 @@
+# supermarket_sale_management
+简易超市销售数据分析项目
